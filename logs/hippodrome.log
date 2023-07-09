@@ -1,0 +1,40 @@
+2023-07-09 11:46:06.673 INFO Main: Начало скачек. Количество участников: 7
+2023-07-09 11:46:27.265 INFO Main: Окончание скачек. Победитель: Пегас
+2023-07-09 11:51:19.484 ERROR Hippodrome: Horses list is null
+2023-07-09 11:51:19.504 ERROR Hippodrome: Horses list is null
+2023-07-09 11:51:19.509 ERROR Hippodrome: Horses list is empty
+2023-07-09 11:51:20.916 ERROR Hippodrome: Horses list is empty
+2023-07-09 11:51:21.160 ERROR Horse: Name is blank
+2023-07-09 11:51:21.186 ERROR Horse: Name is blank
+2023-07-09 11:51:21.190 ERROR Horse: Name is blank
+2023-07-09 11:51:21.193 ERROR Horse: Name is blank
+2023-07-09 11:51:21.197 ERROR Horse: Name is blank
+2023-07-09 11:51:21.205 ERROR Horse: Distance is negative
+2023-07-09 11:51:21.208 ERROR Horse: Name is null
+2023-07-09 11:51:21.213 ERROR Horse: Name is blank
+2023-07-09 11:51:21.217 ERROR Horse: Name is blank
+2023-07-09 11:51:21.220 ERROR Horse: Name is blank
+2023-07-09 11:51:21.223 ERROR Horse: Name is blank
+2023-07-09 11:51:21.228 ERROR Horse: Name is blank
+2023-07-09 11:51:21.234 ERROR Horse: Speed is negative
+2023-07-09 11:51:21.241 ERROR Horse: Speed is negative
+2023-07-09 11:51:21.243 ERROR Horse: Name is null
+2023-07-09 12:03:09.910 ERROR Hippodrome: Horses list is null
+2023-07-09 12:03:09.962 ERROR Hippodrome: Horses list is null
+2023-07-09 12:03:09.968 ERROR Hippodrome: Horses list is empty
+2023-07-09 12:03:11.990 ERROR Hippodrome: Horses list is empty
+2023-07-09 12:03:12.316 ERROR Horse: Name is blank
+2023-07-09 12:03:12.369 ERROR Horse: Name is blank
+2023-07-09 12:03:12.375 ERROR Horse: Name is blank
+2023-07-09 12:03:12.380 ERROR Horse: Name is blank
+2023-07-09 12:03:12.385 ERROR Horse: Name is blank
+2023-07-09 12:03:12.394 ERROR Horse: Distance is negative
+2023-07-09 12:03:12.397 ERROR Horse: Name is null
+2023-07-09 12:03:12.404 ERROR Horse: Name is blank
+2023-07-09 12:03:12.408 ERROR Horse: Name is blank
+2023-07-09 12:03:12.412 ERROR Horse: Name is blank
+2023-07-09 12:03:12.415 ERROR Horse: Name is blank
+2023-07-09 12:03:12.419 ERROR Horse: Name is blank
+2023-07-09 12:03:12.425 ERROR Horse: Speed is negative
+2023-07-09 12:03:12.433 ERROR Horse: Speed is negative
+2023-07-09 12:03:12.436 ERROR Horse: Name is null
